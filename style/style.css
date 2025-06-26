@@ -10,6 +10,7 @@
     animation: slide-out-to-left 0.5s forwards;
 }
 
+
 ::view-transition-new(root){
     animation: slide-in-from-right 0.5s forwards;
 }
